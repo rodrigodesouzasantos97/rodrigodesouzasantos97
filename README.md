@@ -97,6 +97,15 @@ Me chamo Rodrigo, tenho 28 anos e sou natural da terra do pão de queijo e café
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
 <br/>
 <br/>
 
